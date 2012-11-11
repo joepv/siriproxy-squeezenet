@@ -1,0 +1,7 @@
+SiriProxy-SqueezeNet
+
+Plugin to control Spotify on your Squeezebox with Siri.
+
+- You need "Triode third party Spotify plugin" installed for this to work.
+- For song info you need "Song Info" and "Song Lyrics" plugin installed.
+
