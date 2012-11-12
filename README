@@ -2,6 +2,27 @@ SiriProxy-SqueezeNet
 
 Plugin to control Spotify on your Squeezebox with Siri.
 
+*** THIS IS AN ALPHA DEVELOPMENT BUILD. THIS IS NO CLEAN CODE! ***
+
 - You need "Triode third party Spotify plugin" installed for this to work.
 - For song info you need "Song Info" and "Song Lyrics" plugin installed.
 
+What can you ask to Siri?:
+
+General...
+say: "what track/song is playing?" to get the current playing song with album artwork.
+say: "what are the lyrics of the current track/song?" to get the lyrics of the current playing song.
+say: "shuffle the current playlist" or "shuffle on/off" to change the shuffle state.
+say: "play/stop/pause/resume track"
+say: "next/previous/skip/back track"
+
+Add Spotify songs to NEW playlist...
+say: "listen to Foo Fighters" to play the top 10 tracks by Foo Fighters.
+say: "listen to music like Michael Jackson" to play a Michael Jackson similar artists mix.
+say: "listen to the latest Volbeat album" to play a Volbeat's last album.
+say: "listen to Keep The Faith by Bon Jovi" to play the album Keep The Faith from Bon Jovi.
+say: "listen to alternative radio" to play Spotify radio with the alternative genre.
+
+Add Spotify songs to CURRENT playlist...
+say: "add Foo Fighters" to add the top 10 tracks by Foo Fighters to the current playlist.
+say: "add Keep The Faith by Bon Jovi" to add the album Keep The Faith from Bon Jovi to the current playlist.
